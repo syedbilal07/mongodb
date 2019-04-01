@@ -1,0 +1,1 @@
+db.Tutorialspoint.find({}, {'title':1, '_id': 0}).limit(2).skip(1)

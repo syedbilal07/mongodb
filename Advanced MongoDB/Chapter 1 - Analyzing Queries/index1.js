@@ -1,0 +1,1 @@
+db.users.find({gender:"M"},{user_name:1,_id:0}).explain()

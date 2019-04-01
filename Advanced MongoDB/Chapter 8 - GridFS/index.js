@@ -1,0 +1,1 @@
+db.fs.chunks.find({files_id:ObjectId('59d7e74dde1b6533b4324e90')})

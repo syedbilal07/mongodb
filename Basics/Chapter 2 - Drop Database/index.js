@@ -1,0 +1,2 @@
+use Tutorialspoint
+db.dropDatabase()

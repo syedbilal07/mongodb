@@ -1,0 +1,1 @@
+db.createCollection("cappedLogCollection",{capped:true,size:10000,max:1000})
